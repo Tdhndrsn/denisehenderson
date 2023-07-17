@@ -3,12 +3,15 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/denisehenderson/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/denisehenderson/post-install-config)
+
+    - [osTicket: Post-Installation Configuration](https://github.com/denisehenderson/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/denisehenderson/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/denisehenderson/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/denisehenderson/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/denisehenderson/azure-network-protocols)
+ 
+- <b>VPN Installation</b>
+  - [VPN Setup: Install VPN and Observe IPaddress](https://github.com/denisehenderson/vpn-setup)
 
 <h2>🤳Connect with me:</h2>
 
