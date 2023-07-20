@@ -4,14 +4,14 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-    - [osTicket: Post-Installation Configuration](https://github.com/tdhndrsn/denisehenderson/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/tdhndrsn/denisehenderson/ticket-lifecycle)
+    - [osTicket: Post-Installation Configuration](https://github.com/tdhndrsn/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/tdhndrsn/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/tdhndrsn/denisehenderson/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tdhndrsn/denisehenderson/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/tdhndrsn/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tdhndrsn/azure-network-protocols)
  
 - <b>VPN Installation</b>
-  - [VPN Setup: Install VPN and Observe IPaddress](https://github.com/tdhndrsn/denisehenderson/vpn-setup)
+  - [VPN Setup: Install VPN and Observe IPaddress](https://github.com/tdhndrsn/vpn-setup)
 
 <h2>🤳Connect with me:</h2>
 
